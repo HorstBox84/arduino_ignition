@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PL01S/D
+D DELTA PL01S/D Series
+K dcdc, power, delta
+$ENDCMP
+#
+$CMP ROE
+D isolierter DC/DC Wandler
+K recom dcdc schaltregler iso
+$ENDCMP
+#
+#End Doc Library
